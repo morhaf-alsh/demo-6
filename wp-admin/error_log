@@ -1,0 +1,23 @@
+[31-Oct-2020 18:26:24 UTC] WordPress database error Unknown column 'wp_' in 'field list' for query SELECT wp_
+[10-Mar-2021 18:31:36 UTC] WordPress database error Unknown column 'wp_' in 'field list' for query SELECT wp_
+[25-Aug-2021 17:47:50 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'text-align: center; padding-bottom: 10px;'>
+<div><img src='http://nubraorcha...' at line 1 for query UPDATE wp_postmeta SET meta_value = '<div style='text-align: center; padding-bottom: 10px;'>
+<div><img src='http://nubraorchardcamp.com/demo-6/wp-content/plugins/slide-anything/images/sample_logo8.png' alt='Logo 8' /></div>
+<h3>Company Name</h3>
+<p>Lorem ipsum dolor sit amet, cu usu cibo vituperata, id ius probo maiestatis inciderint, sit eu vide volutpat.</p>
+</div>
+' WHERE meta_id = 73 made by require_once('wp-admin/admin.php'), do_action('tools_page_velvet-blues-update-urls'), WP_Hook->do_action, WP_Hook->apply_filters, VelvetBluesUU_management_page, VB_update_urls
+[25-Aug-2021 17:47:50 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'text-align: center; padding-bottom: 10px;'>
+<div><img src='http://nubraorcha...' at line 1 for query UPDATE wp_postmeta SET meta_value = '<div style='text-align: center; padding-bottom: 10px;'>
+<div><img src='http://nubraorchardcamp.com/demo-6/wp-content/plugins/slide-anything/images/sample_logo8.png' alt='Logo 8' /></div>
+<h3>Company Name</h3>
+<p>Lorem ipsum dolor sit amet, cu usu cibo vituperata, id ius probo maiestatis inciderint, sit eu vide volutpat.</p>
+</div>
+' WHERE meta_id = 87 made by require_once('wp-admin/admin.php'), do_action('tools_page_velvet-blues-update-urls'), WP_Hook->do_action, WP_Hook->apply_filters, VelvetBluesUU_management_page, VB_update_urls
+[25-Aug-2021 17:47:50 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'text-align: center; padding-bottom: 10px;'>
+<div><img src='http://nubraorchar...' at line 1 for query UPDATE wp_postmeta SET meta_value = '<div style='text-align: center; padding-bottom: 10px;'>
+<div><img src='http://nubraorchardcamp.com/demo-6/wp-content/plugins/slide-anything/images/sample_logo8.png' alt='Logo 8' /></div>
+<h3>Company Name</h3>
+<p>Lorem ipsum dolor sit amet, cu usu cibo vituperata, id ius probo maiestatis inciderint, sit eu vide volutpat.</p>
+</div>
+' WHERE meta_id = 101 made by require_once('wp-admin/admin.php'), do_action('tools_page_velvet-blues-update-urls'), WP_Hook->do_action, WP_Hook->apply_filters, VelvetBluesUU_management_page, VB_update_urls
